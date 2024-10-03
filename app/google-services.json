@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211193009143",
+    "project_id": "carrritobl",
+    "storage_bucket": "carrritobl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211193009143:android:66168c65160808c63414f2",
+        "android_client_info": {
+          "package_name": "com.example.bluelife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGCA_lqzhclt8LcTPeVxDM7sawZXUod3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
